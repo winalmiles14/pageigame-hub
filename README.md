@@ -1,2 +1,14 @@
 # pageigame-hub
-HTML page archive and documentation
+
+自动生成页面存放处
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
